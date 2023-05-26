@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    padding-top: 60px;
+}
+
+.container-args{
+    display: flex;
+    gap:0.5rem;
+}
+.container-args input{
+    width: 100px;
+}
+.container-logic-selecteor{
+    margin: 2px;
+    display: flex;
+}
